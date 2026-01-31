@@ -32,6 +32,12 @@ While interface guidelines tell you *what* to build, Web Quality Skills tell you
 add-skill is a powerful CLI tool that lets you install agent skills onto your coding agents from git repositories. Whether you're using OpenCode, Claude Code, Codex, or Cursor, the add-skill tool makes it simple to extend your agent's capabilities with specialized instruction sets. Use add-skill to automate release notes, create pull requests, integrate with external tools, and more. Simply run npx add-skill to get started.
 
 ```bash
+npx skills add addyosmani/web-quality-skills
+```
+
+or
+
+```
 npx add-skill addyosmani/web-quality-skills
 ```
 
