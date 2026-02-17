@@ -18,6 +18,7 @@ Web Quality Skills is a collection of Agent Skills for optimizing web projects b
 | accessibility | `skills/accessibility/` | "a11y", "WCAG", "accessible" |
 | seo | `skills/seo/` | "SEO", "meta tags", "search" |
 | best-practices | `skills/best-practices/` | "security", "best practices", "modern" |
+| nextjs-sitecore | `skills/nextjs-sitecore/` | "Sitecore JSS", "XM Cloud", "Experience Edge", "JSS optimization" |
 
 ### Key thresholds
 

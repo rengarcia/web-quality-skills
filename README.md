@@ -24,6 +24,7 @@ While interface guidelines tell you *what* to build, Web Quality Skills tell you
 | **[accessibility](#accessibility)** | WCAG compliance, screen reader support, keyboard navigation | "Improve accessibility", "WCAG audit", "a11y review" |
 | **[seo](#seo)** | Search engine optimization, crawlability, structured data | "Optimize for SEO", "Improve search ranking", "Fix meta tags" |
 | **[best-practices](#best-practices)** | Security, modern APIs, code quality patterns | "Apply best practices", "Security audit", "Code quality review" |
+| **[nextjs-sitecore](#nextjs-sitecore)** | Next.js + Sitecore JSS/XM Cloud performance optimization | "Sitecore JSS", "XM Cloud", "Sitecore Next.js", "Experience Edge" |
 
 ## Quick start
 
@@ -148,6 +149,20 @@ Modern web development standards and security practices.
 - Browser compatibility
 - Error handling
 - Console cleanliness
+
+### nextjs-sitecore
+
+Specialized performance optimization for Next.js projects using Sitecore JSS and XM Cloud.
+
+**Trigger phrases:** "Sitecore JSS", "XM Cloud", "Sitecore Next.js", "Experience Edge", "JSS optimization"
+
+**Key optimizations:**
+- Layout payload optimization (field pruning, system field removal)
+- ISR tuning with Experience Edge (revalidation, transient failure handling)
+- Sitecore SDK bundle splitting (`@sitecore-search`, `@sitecore-feaas`, `@sitecore-cloudsdk`)
+- Image optimization with Sitecore media URLs
+- Middleware chain performance
+- Caching strategies for Edge content
 
 ## Thresholds reference
 
